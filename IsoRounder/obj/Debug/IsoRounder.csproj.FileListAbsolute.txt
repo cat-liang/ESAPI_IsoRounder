@@ -1,0 +1,11 @@
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\IsoRounder.dll
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\IsoRounder.pdb
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\bin\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\obj\Debug\IsoRounder.csproj.AssemblyReference.cache
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\obj\Debug\IsoRounder.csproj.CoreCompileInputs.cache
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\obj\Debug\IsoRounder.csproj.Up2Date
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\obj\Debug\IsoRounder.dll
+C:\Users\cathe\source\repos\ESAPI\IsoRounder\obj\Debug\IsoRounder.pdb
